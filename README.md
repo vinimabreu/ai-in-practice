@@ -1,5 +1,9 @@
 # Artificial Intelligence in Practice
 
+<p align="center">
+  <img src="assets/cover.png" alt="Artificial Intelligence in Practice - book cover" width="420">
+</p>
+
 A free, 84-page handbook on applied AI. Written for developers and technical people who want to actually build with LLMs instead of just reading about them.
 
 **[Download the PDF](Artificial_Intelligence_in_Practice.pdf)**
